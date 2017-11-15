@@ -1,0 +1,59 @@
+2017-11-15 00:30:19 INFO  - Importing DATA from today's XML file
+2017-11-15 00:30:19 INFO  - Importing DATA from yesterday's XML file
+2017-11-15 00:30:19 INFO  - Importing DATA from today's EXCEL file
+2017-11-15 00:30:19 INFO  - Comparing the today's XML file and yesterday's XML file to create RateList for further comparision
+2017-11-15 00:30:19 INFO  - RateList created acting on previous comparision(today's XML and yesterday's XML)
+2017-11-15 00:30:19 INFO  - Comparing the today's XML file and today's EXCEL file
+2017-11-15 00:30:19 INFO  - DATA from XML file for today IS EQUAL to DATA from EXCEL file for today
+2017-11-15 00:31:52 INFO  - Importing DATA from today's XML file
+2017-11-15 00:31:52 INFO  - Importing DATA from yesterday's XML file
+2017-11-15 00:31:52 INFO  - Importing DATA from today's EXCEL file
+2017-11-15 00:31:52 INFO  - Comparing the today's XML file and yesterday's XML file to create RateList for further comparision
+2017-11-15 00:31:52 INFO  - RateList created acting on previous comparision(today's XML and yesterday's XML)
+2017-11-15 00:31:52 INFO  - Comparing the today's XML file and today's EXCEL file
+2017-11-15 00:31:52 INFO  - DATA from XML file for today IS EQUAL to DATA from EXCEL file for today
+2017-11-15 00:32:56 INFO  - Importing DATA from today's XML file
+2017-11-15 00:32:56 INFO  - Importing DATA from yesterday's XML file
+2017-11-15 00:32:56 INFO  - Importing DATA from today's EXCEL file
+2017-11-15 00:32:56 INFO  - Comparing the today's XML file and yesterday's XML file to create RateList for further comparision
+2017-11-15 00:32:56 INFO  - RateList created acting on previous comparision(today's XML and yesterday's XML)
+2017-11-15 00:32:56 INFO  - Comparing the today's XML file and today's EXCEL file
+2017-11-15 00:32:56 INFO  - DATA from XML file for today IS EQUAL to DATA from EXCEL file for today
+2017-11-15 00:33:03 INFO  - Importing Value data from first table from SITE
+2017-11-15 00:33:09 INFO  - Importing Value data from second table from SITE
+2017-11-15 00:33:14 INFO  - Importing Rates data from first table from SITE
+2017-11-15 00:33:16 INFO  - Importing Rates data from second table from SITE
+2017-11-15 00:33:17 INFO  - Comparing today's XML and data from SITE
+2017-11-15 00:33:17 INFO  - Correct DATA on SITE!
+2017-11-15 00:33:17 INFO  - Checking Rate arrows from SITE if are indicated correctly
+2017-11-15 00:33:17 INFO  - Correct Rates on SITE!
+2017-11-15 00:34:46 INFO  - Importing DATA from today's XML file
+2017-11-15 00:34:46 INFO  - Importing DATA from yesterday's XML file
+2017-11-15 00:34:47 INFO  - Importing DATA from today's EXCEL file
+2017-11-15 00:34:47 INFO  - Comparing the today's XML file and yesterday's XML file to create RateList for further comparision
+2017-11-15 00:34:47 INFO  - RateList created acting on previous comparision(today's XML and yesterday's XML)
+2017-11-15 00:34:47 INFO  - Comparing the today's XML file and today's EXCEL file
+2017-11-15 00:34:47 INFO  - DATA from XML file for today IS EQUAL to DATA from EXCEL file for today
+2017-11-15 00:34:52 INFO  - Importing Value data from first table from SITE
+2017-11-15 00:34:58 INFO  - Importing Value data from second table from SITE
+2017-11-15 00:35:03 INFO  - Importing Rates data from first table from SITE
+2017-11-15 00:35:05 INFO  - Importing Rates data from second table from SITE
+2017-11-15 00:35:06 INFO  - Comparing today's XML and data from SITE
+2017-11-15 00:35:06 INFO  - Correct DATA on SITE!
+2017-11-15 00:35:06 INFO  - Checking Rate arrows from SITE if are indicated correctly
+2017-11-15 00:35:06 INFO  - Correct Rates on SITE!
+2017-11-15 18:23:49 INFO  - Importing DATA from today's XML file
+2017-11-15 18:23:49 INFO  - Importing DATA from yesterday's XML file
+2017-11-15 18:23:50 INFO  - Importing DATA from today's EXCEL file
+2017-11-15 18:23:50 INFO  - Comparing the today's XML file and yesterday's XML file to create RateList for further comparision
+2017-11-15 18:23:50 INFO  - RateList created acting on previous comparision(today's XML and yesterday's XML)
+2017-11-15 18:23:50 INFO  - Comparing the today's XML file and today's EXCEL file
+2017-11-15 18:23:50 INFO  - DATA from XML file for today IS EQUAL to DATA from EXCEL file for today
+2017-11-15 18:23:56 INFO  - Importing Value data from first table from SITE
+2017-11-15 18:24:02 INFO  - Importing Value data from second table from SITE
+2017-11-15 18:24:08 INFO  - Importing Rates data from first table from SITE
+2017-11-15 18:24:10 INFO  - Importing Rates data from second table from SITE
+2017-11-15 18:24:11 INFO  - Comparing today's XML and data from SITE
+2017-11-15 18:24:11 INFO  - Correct DATA on SITE!
+2017-11-15 18:24:11 INFO  - Checking Rate arrows from SITE if are indicated correctly
+2017-11-15 18:24:11 INFO  - Correct Rates on SITE!
